@@ -2,6 +2,7 @@ tests/reports
 build
 .DS_Store
 *.log
+.env
 
 # IDE
 .project
@@ -14,3 +15,4 @@ atlassian-ide-plugin.xml
 # Composer
 vendor
 composer.lock
+composer.phar
