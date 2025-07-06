@@ -1,6 +1,11 @@
 
 # CHANGELOG
 
+## 3.4.0.1 (Jul 06, 2025)
+   * Remove get_magic_quotes_gpc.
+   * Replace parent call.
+   * Fix 8.3 compatibility
+
 ## 3.4.0 (Nov 13, 2017)
    * Add http.TimeOut config value to make curl timeout configurable.
    * Fix logging bug on shutdown.
